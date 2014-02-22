@@ -40,7 +40,7 @@ setup(
         ],
     install_requires=[
         "setuptools",
-        "lockfile >=0.7",
+        "lockfile >=0.9.1",
         ],
 
     # PyPI metadata
