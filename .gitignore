@@ -2,3 +2,6 @@
 __pycache__
 *~
 local.env
+
+.idea/
+*.egg-info
